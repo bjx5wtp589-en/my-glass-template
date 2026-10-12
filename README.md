@@ -2,7 +2,7 @@
 
 这是一个基于 Next.js 构建的、拥有 **Apple 液态玻璃（Liquid Glassmorphism）** 视觉风格的高颜值前端模板。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F你的GitHub用户名%2F你的仓库名)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fbjx5wtp589-en/my-glass-templatemy-glass-template)
 
 ## 🌟 特性
 - **苹果液态玻璃UI**：细腻的毛玻璃模糊（Backdrop Blur）、高光边框、内阴影及悬停反馈。
